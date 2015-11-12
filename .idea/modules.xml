@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Coffee_Manager.iml" filepath="$PROJECT_DIR$/Coffee_Manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/db4o-8.0.249.16098-all-java5/db4o-8.0.249.16098-all-java5.iml" filepath="$PROJECT_DIR$/db4o-8.0.249.16098-all-java5/db4o-8.0.249.16098-all-java5.iml" />
+    </modules>
+  </component>
+</project>
